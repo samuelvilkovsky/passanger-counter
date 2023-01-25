@@ -1,0 +1,16 @@
+button {
+    margin: 0;
+    padding: 1rem 2rem;
+    background-color: green;
+    border: none;
+    border-radius: 2rem;
+
+    font-weight: bold;
+    font-size: 1rem;
+    color: white;
+}
+
+button:hover {
+    background-color: lightgreen;
+    color: darkgreen;
+}
